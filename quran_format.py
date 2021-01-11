@@ -50,7 +50,7 @@ def normalize_arabic(text):
     text = re.sub("[إأٱآا]", "ا", text)
     text = re.sub("[ئي]", "ى", text)
     text = re.sub("ؤ", "و", text)
-    text = re.sub(r"(\s)ن", r"\1ں", text)
+    # text = re.sub(r"(\s)ن", r"\1ں", text)
     text = re.sub(r"ن(\s)", r"ں\1", text)
     text = re.sub(r"ن", "ٮ", text)
     text = re.sub("ش", "س", text)
