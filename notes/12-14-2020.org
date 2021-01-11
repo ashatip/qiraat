@@ -1,0 +1,32 @@
+#+TITLE: 12-14-2020
+* learn html
+* lang:
+-hamza
+    -some qiraat it is not there
+    -when no hamza, have a dot
+-hakat:
+    -dont worry about it
+-ayah:
+    -put a dash or something
+    -may need to have a ayah number
+
+different qiraat colors shows:
+-there is a difference in qiraat
+-how to prounce in given qiraat
+-might need to color the skecton:
+    -with warsh,
+    -inaamla: say it as yaa
+-mark out tawjeed:
+    -difference
+    -other places have dot
+
+
+* next step:
+-create uthamni skecton
+    -no harkats
+    -basic letters
+-conflict find it
+-website start
+-font
+-programing scripts
+-write out differences in qiraat
